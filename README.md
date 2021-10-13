@@ -1,6 +1,6 @@
 # messenger_clone
 
-Personal Project to enhance my hands on Flutter Development
+Personal Project to enhance my hands-on experience with Flutter Development.
 
 ## Getting Started
 
